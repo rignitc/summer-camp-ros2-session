@@ -1,0 +1,7 @@
+# ignore build log install folder
+
+build/
+install/
+log/
+.vscode/
+
